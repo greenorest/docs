@@ -15,6 +15,7 @@ Abbreviations:
 .. [GC] Export original file via `Garmin Connect <https://connect.garmin.com/de-DE/>`_
 .. [PF] Export the tcx file via `Polar flow <https://flow.polar.com/>`_
 .. [TT] Export the original file via `TomTom MySports <https://mysports.tomtom.com/>`_
+.. [DD] Export the File directly from the watch using v800_downloader <https://github.com/profanum429/v800_downloader/>`
 
 .. note::
           This site contains affiliate links to support the development and infrastructure of RUNALYZE. They are marked with an *
@@ -72,9 +73,9 @@ Abbreviations:
 +                                             +--------------------------------------------------------------------------------------+                       +--------------------+
 |                                             | vivoactive                                                                           |                       | [UM]_ , [GC]_      |
 +---------------------------------------------+--------------------------------------------------------------------------------------+-----------------------+--------------------+
-| Polar                                       | V800 `(Buy*) <http://amzn.to/1No5mKK>`_                                              |                       | [PF]_, ?           |
+| Polar                                       | V800 `(Buy*) <http://amzn.to/1No5mKK>`_                                              |                       | [PF]_, [DD]_       |
 +                                             +--------------------------------------------------------------------------------------+                       +--------------------+
-|                                             | M400 `(Buy*) <http://amzn.to/1Q0Fnj6>`_                                              |                       | [PF]_, ?           |
+|                                             | M400 `(Buy*) <http://amzn.to/1Q0Fnj6>`_                                              |                       | [PF]_, [DD]_       |
 +                                             +--------------------------------------------------------------------------------------+                       +--------------------+
 |                                             | RS300X                                                                               |                       | [PF]_, ?           |
 +                                             +--------------------------------------------------------------------------------------+                       +--------------------+
